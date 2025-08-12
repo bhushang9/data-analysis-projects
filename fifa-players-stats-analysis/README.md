@@ -1,7 +1,5 @@
 # FIFA Players Analysis
 
-# FIFA Players Analysis
-
 ## 📌 Project Overview
 This project explores and analyzes FIFA player statistics to uncover trends, patterns, and interesting insights.  
 The dataset contains detailed information about player attributes, ratings, clubs, nationalities, and more.  
