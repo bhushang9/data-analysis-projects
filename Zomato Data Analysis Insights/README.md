@@ -1,15 +1,15 @@
 # 🍽️ Zomato Restaurant Data Analysis & Insights
 
--------------------------------------------------------
+---
 📜 Project Description
--------------------------------------------------------
+--- 
 
 An end-to-end **exploratory data analysis (EDA)** and **business intelligence** project on Zomato's restaurant dataset. This project uncovers actionable insights on customer behavior, restaurant performance, ordering trends, and spending patterns — with anomaly detection and statistical hypothesis testing to support data-driven decision-making.
 > **Business Goal:** Help Zomato optimize operations, improve customer experience, and identify high-impact opportunities using data.
 
--------------------------------------------------------
+---
 🔍 Problem Statements
--------------------------------------------------------
+---
 | # | Business Question |
 |---|---|
 | 1 | What are the most popular restaurant types based on customer orders? |
@@ -21,9 +21,9 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 | 7 | Are there anomalies indicating unusual restaurant performance? |
 | 8 | Can ordering and performance hypotheses be statistically validated? |
 
---------------------------------------------------------------
+---
 🌟 Key Features of the Project
---------------------------------------------------------------
+---
 
 🧹 Data Cleaning & Preprocessing
 
@@ -45,14 +45,14 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 
 🚨 Anomaly Detection
 
-- Applied Isolation Forest on votes, ratings, and cost to flag ~7 outlier restaurants
+- Scaled numerical features using StandardScaler, then applied Isolation Forest to flag 7 outlier restaurants with disproportionate votes-to-rating ratios
 
 🧪 Hypothesis Testing
 
 - Online vs Offline Ratings: Welch's T-test to compare average ratings across ordering modes
 - Dining Votes Comparison: T-test to validate if casual dining receives significantly more votes
 
------------------------------------------------------------------
+---
 
 ## 📊 Visualizations
  
@@ -74,7 +74,7 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
  
 | Category | Tools |
 |---|---|
-| Language | Python 3.x |
+| Language | Python |
 | Data Manipulation | Pandas, NumPy |
 | Visualization | Seaborn, Matplotlib |
 | Machine Learning | Scikit-learn (Isolation Forest) |
@@ -93,3 +93,30 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
  
 ---
 
+## 🚀 How to Run
+ 
+```bash
+# Clone the repository
+git clone https://github.com/bhushang9/zomato-data-analysis.git
+ 
+# Install dependencies
+pip install pandas numpy seaborn matplotlib scikit-learn scipy
+ 
+# Open the notebook
+jupyter notebook zomato_data_analysis.ipynb
+```
+ 
+---
+ 
+## 📌 Skills Demonstrated
+ 
+`Exploratory Data Analysis` `Data Cleaning` `Data Visualization` `Anomaly Detection` `Hypothesis Testing` `Statistical Analysis` `Business Intelligence` `Python` `Pandas` `Scikit-learn` `SciPy` `Seaborn`
+ 
+---
+ 
+## 👤 Author
+ 
+**Bhushan Gholekar**
+[LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
+
+---
