@@ -37,7 +37,7 @@ This project digs into Netflix's content library of **8,807 titles** to understa
 - Exploded the multi-label `listed_in` column to properly count individual genres
 - Grouped year-wise data separately for Movies and TV Shows to track growth trends
 
-**📊 Visualizations (9 total)**
+**📊 Data Visualizations (9 total)**
 - Count plot + pie chart for Movies vs TV Shows split
 - Grouped bar chart for rating distribution by content type
 - Line chart tracking content additions year by year
@@ -79,7 +79,7 @@ This project digs into Netflix's content library of **8,807 titles** to understa
 
 | Category | Tools |
 |---|---|
-| Language | Python 3.x |
+| Language | Python |
 | Data Manipulation | Pandas, NumPy |
 | Visualization | Seaborn, Matplotlib |
 | Text Analysis | WordCloud |
@@ -101,7 +101,7 @@ This project digs into Netflix's content library of **8,807 titles** to understa
 
 ```bash
 # Clone the repository
-git clone https://github.com/bhushang9/netflix-content-insights.git
+git clone https://github.com/bhushang9/netflix-content-analysis-trend-insights.git
 
 # Install dependencies
 pip install pandas numpy seaborn matplotlib wordcloud
