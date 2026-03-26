@@ -1,6 +1,6 @@
 # 🎬 Netflix Content Analysis & Trend Insights
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-red) ![WordCloud](https://img.shields.io/badge/WordCloud-TextAnalysis-purple)
+![Python](https://img.shields.io/badge/Python-3-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-red) ![WordCloud](https://img.shields.io/badge/WordCloud-TextAnalysis-purple)
 
 ---
 
@@ -108,16 +108,8 @@ pip install pandas numpy seaborn matplotlib wordcloud
 
 # Open the notebook
 jupyter notebook netflix_insights.ipynb
+
 ```
-
----
-
-## 📌 Skills Demonstrated
-
-`Exploratory Data Analysis` `Data Cleaning` `Data Visualization` `Time-Series Analysis` `Text Analysis` `Feature Engineering` `Business Intelligence` `Python` `Pandas` `Seaborn` `Matplotlib` `WordCloud`
-
----
-
 ## 👤 Author
 
 **Bhushan Gholekar**
