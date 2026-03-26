@@ -1,13 +1,15 @@
 # 🍽️ Zomato Restaurant Data Analysis & Insights
 
+-------------------------------------------------------
 📜 Project Description
+-------------------------------------------------------
 
 An end-to-end **exploratory data analysis (EDA)** and **business intelligence** project on Zomato's restaurant dataset. This project uncovers actionable insights on customer behavior, restaurant performance, ordering trends, and spending patterns — with anomaly detection and statistical hypothesis testing to support data-driven decision-making.
 > **Business Goal:** Help Zomato optimize operations, improve customer experience, and identify high-impact opportunities using data.
 
 -------------------------------------------------------
 🔍 Problem Statements
--------------------------------------------------------------
+-------------------------------------------------------
 | # | Business Question |
 |---|---|
 | 1 | What are the most popular restaurant types based on customer orders? |
