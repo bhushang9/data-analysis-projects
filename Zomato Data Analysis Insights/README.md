@@ -53,6 +53,7 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 -  Dining Votes Comparison: T-test to evaluate vote differences between casual dining and other types.
 
 -----------------------------------------------------------------
+
 ## 📊 Visualizations
  
 ### 1. Restaurant Type Distribution
@@ -67,5 +68,28 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 ### 4. Online vs Offline Orders Heatmap
 ![Heatmap](outputs/heatmap_online_offline.png)
 
-
+---
+ 
+## 🛠️ Tech Stack
+ 
+| Category | Tools |
+|---|---|
+| Language | Python 3.x |
+| Data Manipulation | Pandas, NumPy |
+| Visualization | Seaborn, Matplotlib |
+| Machine Learning | Scikit-learn (Isolation Forest) |
+| Statistical Analysis | SciPy (Welch's T-test) |
+| Feature Scaling | StandardScaler |
+ 
+---
+ 
+## 💡 Insights
+ 
+- **Dining restaurants dominate offline orders** — prime target for offline promotional campaigns and loyalty offers
+- **Online ordering correlates with higher ratings** — suggests better customer experience and satisfaction in online mode
+- **Majority of couples spend ₹200–₹500 per order** — useful benchmark for pricing strategy and combo meal planning
+- **~7 restaurants flagged as anomalies** — disproportionate votes-to-rating ratios indicate either fake reviews or exceptionally viral outlets
+- **Casual Dining receives significantly more votes** than other restaurant types, statistically validated via Welch's T-test
+ 
+---
 
