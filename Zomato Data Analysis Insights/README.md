@@ -37,7 +37,7 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 - Rating Analysis: Histogram revealing customer satisfaction trends
 - Spending Habits: Distribution of approximate cost for two people
 
-📊 Visualizations
+📊 Data Visualizations
 
 - Heatmap for online vs offline ordering preferences by restaurant type
 - Scatter plots for votes vs rating relationship
