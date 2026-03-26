@@ -1,5 +1,6 @@
 # 🍽️ Zomato Restaurant Data Analysis & Insights
 
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![SciPy](https://img.shields.io/badge/SciPy-Statistics-purple) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-red)
 ---
 📜 Project Description
 --- 
@@ -97,25 +98,20 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
  
 ```bash
 # Clone the repository
-git clone https://github.com/bhushang9/zomato-data-analysis.git
+git clone https://github.com/bhushang9/zomato-data-analysis-insights.git
  
 # Install dependencies
 pip install pandas numpy seaborn matplotlib scikit-learn scipy
  
 # Open the notebook
 jupyter notebook zomato_data_analysis.ipynb
+
 ```
- 
----
- 
-## 📌 Skills Demonstrated
- 
-`Exploratory Data Analysis` `Data Cleaning` `Data Visualization` `Anomaly Detection` `Hypothesis Testing` `Statistical Analysis` `Business Intelligence` `Python` `Pandas` `Scikit-learn` `SciPy` `Seaborn`
  
 ---
  
 ## 👤 Author
  
-**Bhushan Gholekar** [LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
-
+**Bhushan Gholekar**
+[LinkedIn](https://linkedin.com/in/bhushan-gholekar09) • [GitHub](https://github.com/bhushang9)
 ---
