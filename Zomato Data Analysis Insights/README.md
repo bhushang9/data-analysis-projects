@@ -24,33 +24,33 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 --------------------------------------------------------------
 🌟 Key Features of the Project
 --------------------------------------------------------------
-🧹 Data Cleaning and Preprocessing:
 
--  Conversion of rate column to numeric for easier analysis.
--  Handling missing values and irrelevant data.
+🧹 Data Cleaning & Preprocessing
 
+- Converted rate column from string format to numeric for accurate analysis
+- Handled missing values and standardized data types across all columns
 
-🔎 Exploratory Data Analysis (EDA):
+🔎 Exploratory Data Analysis (EDA)
 
--  Restaurant Type Analysis: Count plot to identify the most common types.
--  Vote Distribution: Aggregating and visualizing total votes by restaurant type.
--  Rating Analysis: Histogram of restaurant ratings.
--  Spending Habits: Distribution of the approximate cost for two people.
+- Restaurant Type Analysis: Count plot to identify most popular categories
+- Vote Distribution: Aggregated total votes by restaurant type
+- Rating Analysis: Histogram revealing customer satisfaction trends
+- Spending Habits: Distribution of approximate cost for two people
 
+📊 Visualizations
 
-📊 Insights and Visualizations:
--  Heatmaps for visualizing online vs offline ordering preferences.
--  Scatter plots for relationships between votes and ratings.
--  Bar charts for average cost analysis across restaurant types.
+- Heatmap for online vs offline ordering preferences by restaurant type
+- Scatter plots for votes vs rating relationship
+- Bar charts for average cost comparison across categories
 
+🚨 Anomaly Detection
 
-🚨 Anomaly Detection:
--  Using the Isolation Forest algorithm to detect anomalies in votes, ratings, and costs.
+- Applied Isolation Forest on votes, ratings, and cost to flag ~7 outlier restaurants
 
+🧪 Hypothesis Testing
 
-🧪 Hypothesis Testing:
--  Online vs Offline Ratings: T-test to compare average ratings.
--  Dining Votes Comparison: T-test to evaluate vote differences between casual dining and other types.
+- Online vs Offline Ratings: Welch's T-test to compare average ratings across ordering modes
+- Dining Votes Comparison: T-test to validate if casual dining receives significantly more votes
 
 -----------------------------------------------------------------
 
@@ -88,8 +88,8 @@ An end-to-end **exploratory data analysis (EDA)** and **business intelligence** 
 - **Dining restaurants dominate offline orders** — prime target for offline promotional campaigns and loyalty offers
 - **Online ordering correlates with higher ratings** — suggests better customer experience and satisfaction in online mode
 - **Majority of couples spend ₹200–₹500 per order** — useful benchmark for pricing strategy and combo meal planning
-- **~7 restaurants flagged as anomalies** — disproportionate votes-to-rating ratios indicate either fake reviews or exceptionally viral outlets
-- **Casual Dining receives significantly more votes** than other restaurant types, statistically validated via Welch's T-test
+- **7 restaurants flagged as anomalies** — disproportionate votes-to-rating ratios indicate either fake reviews or exceptionally viral outlets
+- **Casual Dining receives significantly more votes** — than other restaurant types, statistically validated via Welch's T-test
  
 ---
 
