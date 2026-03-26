@@ -1,6 +1,6 @@
 # 🎬 Netflix Content Analysis & Trend Insights
 
-![Python](https://img.shields.io/badge/Python-3-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-red) ![WordCloud](https://img.shields.io/badge/WordCloud-TextAnalysis-purple)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-red) ![WordCloud](https://img.shields.io/badge/WordCloud-TextAnalysis-purple)
 
 ---
 
