@@ -1,27 +1,23 @@
-🍽️ Zomato Data Analysis and Insights!
+# 🍽️ Zomato Restaurant Data Analysis & Insights
 =======================================================
 📜 Project Description
 
-This project focuses on analyzing Zomato's restaurant data to generate actionable insights. The goal is to understand customer preferences, restaurant performance, and ordering trends, while also identifying anomalies and testing hypotheses. The findings can be used by Zomato to optimize their operations, enhance customer experience, and implement strategic decisions.
+An end-to-end **exploratory data analysis (EDA)** and **business intelligence** project on Zomato's restaurant dataset. This project uncovers actionable insights on customer behavior, restaurant performance, ordering trends, and spending patterns — with anomaly detection and statistical hypothesis testing to support data-driven decision-making.
+> **Business Goal:** Help Zomato optimize operations, improve customer experience, and identify high-impact opportunities using data.
 
 -------------------------------------------------------
 🔍 Problem Statements
 -------------------------------------------------------------
-1️⃣ What are the most popular types of restaurants based on customer orders?
-
-2️⃣ How many votes does each restaurant category receive, and how does it reflect customer preferences?
-
-3️⃣ What is the distribution of restaurant ratings, and what does it reveal about customer satisfaction?
-
-4️⃣ What are the spending habits of couples, and what is their average expenditure per order?
-
-5️⃣ How do the ratings differ between online and offline ordering modes?
-
-6️⃣ Which restaurant type receives the highest offline orders, and how can Zomato target these customers with offers?
-
-7️⃣ Are there any anomalies in the dataset, and what insights can be drawn from them?
-
-8️⃣ Can hypotheses regarding ordering patterns and restaurant performance be validated using statistical testing?
+| # | Business Question |
+|---|---|
+| 1 | What are the most popular restaurant types based on customer orders? |
+| 2 | Which restaurant categories receive the most votes? |
+| 3 | What is the rating distribution across restaurants? |
+| 4 | What are the spending habits of couples ordering together? |
+| 5 | Do online orders receive higher ratings than offline orders? |
+| 6 | Which restaurant types get the most offline orders? |
+| 7 | Are there anomalies indicating unusual restaurant performance? |
+| 8 | Can ordering and performance hypotheses be statistically validated? |
 
 --------------------------------------------------------------
 🌟 Key Features of the Project
@@ -55,3 +51,19 @@ This project focuses on analyzing Zomato's restaurant data to generate actionabl
 -  Dining Votes Comparison: T-test to evaluate vote differences between casual dining and other types.
 
 -----------------------------------------------------------------
+## 📊 Visualizations
+ 
+### 1. Restaurant Type Distribution
+![Restaurant Type Distribution](outputs/restaurant_type_distribution.png)
+ 
+### 2. Online vs Offline Order Ratings
+![Online vs Offline Ratings](outputs/online_vs_offline_ratings.png)
+ 
+### 3. Anomaly Detection — Votes vs Rating
+![Anomaly Detection](outputs/anomaly_detection.png)
+ 
+### 4. Online vs Offline Orders Heatmap
+![Heatmap](outputs/heatmap_online_offline.png)
+
+
+
