@@ -116,7 +116,6 @@ jupyter notebook zomato_data_analysis.ipynb
  
 ## 👤 Author
  
-**Bhushan Gholekar**
-[LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
+**Bhushan Gholekar** [LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
 
 ---
