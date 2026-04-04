@@ -99,12 +99,12 @@ An exploratory data analysis project on FIFA 21 player data covering player rati
 
 ## 💡 Key Insights
 
-- **Players in the 31-35 age group** show the highest average overall ratings — peak performance years in professional football
-- **Market value rises sharply with potential** — high potential players command premium valuations even before reaching peak form
+- **Players in the 31-35 age group** show the highest average overall ratings peak performance years in professional football
+- **Market value rises sharply with potential** high potential players command premium valuations even before reaching peak form
 - **England** contributes the most players to FIFA 21 by nationality
-- **Higher overall ratings strongly correlate with higher wages** — top rated players earn disproportionately more than average
-- **Dribbling and passing show strong positive correlation** — technically gifted players tend to excel in both
-- **Defending and pace show weak correlation** — different positional skill sets
+- **Higher overall ratings strongly correlate with higher wages** top rated players earn disproportionately more than average
+- **Dribbling and passing show strong positive correlation** technically gifted players tend to excel in both
+- **Defending and pace show weak correlation** different positional skill sets
 
 ---
 
