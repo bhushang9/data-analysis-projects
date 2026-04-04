@@ -11,8 +11,7 @@ A collection of real-world data analysis and business intelligence projects buil
 | 1 | [E-Commerce Sales Analytics](https://github.com/bhushang9/data-analysis-projects/tree/main/ecommerce-sales-analytics) | Business / Retail Analytics | Python, SQL, SQLite, Power BI, Pandas, Seaborn | SQLite database, 13 SQL queries, Power BI dashboard, $2.29M revenue analysis |
 | 2 | [Zomato Restaurant Data Analysis](https://github.com/bhushang9/data-analysis-projects/tree/main/zomato-data-analysis-insights) | Food / Restaurant Analytics | Python, Pandas, Scikit-learn, SciPy, Seaborn | Anomaly detection, hypothesis testing, restaurant performance insights |
 | 3 | [Netflix Content Analysis & Trend Insights](https://github.com/bhushang9/data-analysis-projects/tree/main/netflix-content-analysis-trend-insights) | Entertainment / Media Analytics | Python, Pandas, Seaborn, Matplotlib, WordCloud | 8,807 titles analyzed, content growth trends, genre & rating breakdowns |
-| 4 | BMW Car Data Analysis | Automotive Analytics | Python, Pandas, Matplotlib, Seaborn | Price & spec analysis, mileage vs price relationships |
-| 5 | FIFA Player Stats Analysis | Sports Analytics | Python, Pandas, Matplotlib, Seaborn | Player and team performance insights |
+| 4 | [FIFA Player Stats Analysis ](https://github.com/bhushang9/data-analysis-projects/tree/main/fifa-players-stats-analysis) | Sports Analytics | Python, Pandas, Matplotlib, Seaborn | Player and team performance insights |
 
 ---
 
