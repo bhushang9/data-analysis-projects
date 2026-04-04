@@ -1,4 +1,4 @@
-# 📊 Data Analysis & Business Intelligence Projects
+# 📊 Data Analysis Projects
 
 A collection of real-world data analysis and business intelligence projects built using Python, SQL, and Power BI — covering the full analytics workflow from raw data to actionable insights.
 
