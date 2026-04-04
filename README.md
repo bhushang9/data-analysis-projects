@@ -23,7 +23,7 @@ Each project covers data cleaning, SQL querying, visualizations, statistical ana
 - Analyzed **9,994 sales records** ($2.29M revenue) using Python and SQLite
 - Wrote **13 SQL business queries** for revenue, profit, customer, and segment analysis
 - Built **7 Python visualizations** and an interactive **Power BI dashboard** with dynamic slicers
-- [View Project →]([https://github.com/bhushang9/ecommerce-sales-analytics](https://github.com/bhushang9/data-analysis-projects/tree/main/ecommerce-sales-analytics))
+- [View Project →](https://github.com/bhushang9/data-analysis-projects/tree/main/ecommerce-sales-analytics)
 
 ### 2. 🍽️ Zomato Restaurant Data Analysis
 - Applied **Isolation Forest** anomaly detection and **Welch's T-test** hypothesis testing
