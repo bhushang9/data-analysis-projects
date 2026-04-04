@@ -88,6 +88,7 @@ A full-stack sales analytics project built on a superstore e-commerce dataset of
 ## 📈 Power BI Dashboard
 
 ![Sales Performance Dashboard](dashboards/sales_dashboard.png)
+![Sales Performance Dashboard](dashboards/sales_demo.mp4)
 
 ---
 
