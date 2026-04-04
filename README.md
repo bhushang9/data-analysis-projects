@@ -9,9 +9,9 @@ Each project covers data cleaning, SQL querying, visualizations, statistical ana
 
 | No | Project | Domain | Tech Stack | Highlights |
 |----|---------|---------|------------|------------|
-| 1 | [E-Commerce Sales Analytics](https://github.com/bhushang9/ecommerce-sales-analytics) | Business / Retail Analytics | Python, SQL, SQLite, Power BI, Pandas, Seaborn | SQLite database, 13 SQL queries, Power BI dashboard, $2.29M revenue analysis |
-| 2 | [Zomato Restaurant Data Analysis](https://github.com/bhushang9/zomato-data-analysis) | Food / Restaurant Analytics | Python, Pandas, Scikit-learn, SciPy, Seaborn | Anomaly detection, hypothesis testing, restaurant performance insights |
-| 3 | [Netflix Content Analysis & Trend Insights](https://github.com/bhushang9/netflix-content-analysis-trend-insights) | Entertainment / Media Analytics | Python, Pandas, Seaborn, Matplotlib, WordCloud | 8,807 titles analyzed, content growth trends, genre & rating breakdowns |
+| 1 | [E-Commerce Sales Analytics](https://github.com/bhushang9/data-analysis-projects/tree/main/ecommerce-sales-analytics) | Business / Retail Analytics | Python, SQL, SQLite, Power BI, Pandas, Seaborn | SQLite database, 13 SQL queries, Power BI dashboard, $2.29M revenue analysis |
+| 2 | [Zomato Restaurant Data Analysis](https://github.com/bhushang9/data-analysis-projects/tree/main/zomato-data-analysis-insights) | Food / Restaurant Analytics | Python, Pandas, Scikit-learn, SciPy, Seaborn | Anomaly detection, hypothesis testing, restaurant performance insights |
+| 3 | [Netflix Content Analysis & Trend Insights](https://github.com/bhushang9/data-analysis-projects/tree/main/netflix-content-analysis-trend-insights) | Entertainment / Media Analytics | Python, Pandas, Seaborn, Matplotlib, WordCloud | 8,807 titles analyzed, content growth trends, genre & rating breakdowns |
 | 4 | BMW Car Data Analysis | Automotive Analytics | Python, Pandas, Matplotlib, Seaborn | Price & spec analysis, mileage vs price relationships |
 | 5 | FIFA Player Stats Analysis | Sports Analytics | Python, Pandas, Matplotlib, Seaborn | Player and team performance insights |
 
@@ -23,19 +23,19 @@ Each project covers data cleaning, SQL querying, visualizations, statistical ana
 - Analyzed **9,994 sales records** ($2.29M revenue) using Python and SQLite
 - Wrote **13 SQL business queries** for revenue, profit, customer, and segment analysis
 - Built **7 Python visualizations** and an interactive **Power BI dashboard** with dynamic slicers
-- [View Project →](https://github.com/bhushang9/ecommerce-sales-analytics)
+- [View Project →]([https://github.com/bhushang9/ecommerce-sales-analytics](https://github.com/bhushang9/data-analysis-projects/tree/main/ecommerce-sales-analytics))
 
 ### 2. 🍽️ Zomato Restaurant Data Analysis
 - Applied **Isolation Forest** anomaly detection and **Welch's T-test** hypothesis testing
 - Delivered statistically validated insights on restaurant performance and ordering behavior
 - Built 8+ visualizations answering 8 key business questions
-- [View Project →](https://github.com/bhushang9/zomato-data-analysis)
+- [View Project →](https://github.com/bhushang9/data-analysis-projects/tree/main/zomato-data-analysis-insights)
 
 ### 3. 🎬 Netflix Content Analysis & Trend Insights
 - Analyzed **8,807 Netflix titles** (5,332 post-cleaning) across genres, ratings, and geographies
 - Engineered time-based features to map Netflix's year-wise content growth trajectory
 - Developed 9 visualizations including word clouds, line charts, and bar charts
-- [View Project →](https://github.com/bhushang9/netflix-content-analysis-trend-insights)
+- [View Project →](https://github.com/bhushang9/data-analysis-projects/tree/main/netflix-content-analysis-trend-insights)
 
 ---
 
